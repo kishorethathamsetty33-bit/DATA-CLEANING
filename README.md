@@ -11,4 +11,4 @@ Checked missing values and duplicates.
 Filled missing Age values using median.
 Filled missing Embarked values using mode.
 Removed Cabin because of a large number of missing values.
-Final dataset: 891 rows, 11 columns, 0 missing values.
+Final dataset: 8991 rows, 11 columns, 0 missing values.
